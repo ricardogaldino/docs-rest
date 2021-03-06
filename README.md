@@ -1,2 +1,1 @@
-# docs-rest
-REST (Representational State Transfer)
+# REST (Representational State Transfer)
